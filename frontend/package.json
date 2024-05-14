@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "face-api.js": "^0.22.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "node-fetch": "^3.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
